@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <startup>
+    <supportedRunTime version="v4.0" sku=".NETFramework,Version=v4.5"/>
+  </startup>
+  <connectionStrings>
+    <add name="sgbd" connectionString="Data Source= TASOURCE ;Database=BaseDeDonnees; Trusted_Connection=Yes"/>
+  </connectionStrings>
+</configuration>
